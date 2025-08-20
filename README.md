@@ -26,8 +26,8 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NisargaNP&show_icons=true&theme=radical" alt="Nisarga's GitHub stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NisargaNP&layout=compact&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nisarga-n-p&show_icons=true&theme=radical" alt="Nisarga's GitHub stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nisarga-n-p&layout=compact&theme=radical" height="180"/>
 </p>
 
 ---
