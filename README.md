@@ -37,7 +37,7 @@
 <p><img src="https://via.placeholder.com/400x200/1e3a8a/ffffff?text=Knight+Bite+Clone" width="400"/></p>
 
 💠 **Shaadi.com Clone** *(in progress)*  
-<p><img src="https://via.placeholder.com/400x200/38bdf8/ffffff?text=Shaadi+Clone" width="400"/></p>
+<p><img src="[https://via.placeholder.com/400x200/38bdf8/ffffff?text=Shaadi+Clone](https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/New_logo_of_Shaadi.svg/2560px-New_logo_of_Shaadi.svg.png)" width="400"/></p>
 
 ---
 
